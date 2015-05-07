@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/katas-java/bowling/src/main/Bowling (main).iml" filepath="$PROJECT_DIR$/katas-java/bowling/src/main/Bowling (main).iml" />
+      <module fileurl="file://$PROJECT_DIR$/katas-java/bowling/src/tests/Bowling (tests).iml" filepath="$PROJECT_DIR$/katas-java/bowling/src/tests/Bowling (tests).iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java/fizzbuzz/src/main/FizzBuzz (main).iml" filepath="$PROJECT_DIR$/katas-java/fizzbuzz/src/main/FizzBuzz (main).iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz (main)/FizzBuzz (main).iml" filepath="$PROJECT_DIR$/FizzBuzz (main)/FizzBuzz (main).iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java/fizzbuzz/src/tests/FizzBuzz (tests).iml" filepath="$PROJECT_DIR$/katas-java/fizzbuzz/src/tests/FizzBuzz (tests).iml" />
