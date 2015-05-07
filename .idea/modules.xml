@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz (main)/FizzBuzz (main).iml" filepath="$PROJECT_DIR$/FizzBuzz (main)/FizzBuzz (main).iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java/fizzbuzz/src/tests/FizzBuzz (tests).iml" filepath="$PROJECT_DIR$/katas-java/fizzbuzz/src/tests/FizzBuzz (tests).iml" />
       <module fileurl="file://$PROJECT_DIR$/Katas.iml" filepath="$PROJECT_DIR$/Katas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/katas-java/stringcalculator/src/main/StringCalculator (main).iml" filepath="$PROJECT_DIR$/katas-java/stringcalculator/src/main/StringCalculator (main).iml" />
+      <module fileurl="file://$PROJECT_DIR$/katas-java/stringcalculator/src/tests/StringCalculator (tests).iml" filepath="$PROJECT_DIR$/katas-java/stringcalculator/src/tests/StringCalculator (tests).iml" />
     </modules>
   </component>
 </project>
