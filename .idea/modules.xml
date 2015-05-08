@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/Katas.iml" filepath="$PROJECT_DIR$/Katas.iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java/stringcalculator/src/main/StringCalculator (main).iml" filepath="$PROJECT_DIR$/katas-java/stringcalculator/src/main/StringCalculator (main).iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java/stringcalculator/src/tests/StringCalculator (tests).iml" filepath="$PROJECT_DIR$/katas-java/stringcalculator/src/tests/StringCalculator (tests).iml" />
+      <module fileurl="file://$PROJECT_DIR$/katas-java/wordwrap/src/main/WordWrap (main).iml" filepath="$PROJECT_DIR$/katas-java/wordwrap/src/main/WordWrap (main).iml" />
+      <module fileurl="file://$PROJECT_DIR$/katas-java/wordwrap/src/tests/WordWrap (tests).iml" filepath="$PROJECT_DIR$/katas-java/wordwrap/src/tests/WordWrap (tests).iml" />
     </modules>
   </component>
 </project>
