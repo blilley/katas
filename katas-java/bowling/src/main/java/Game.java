@@ -1,6 +1,13 @@
-public class Game {
+import java.util.List;
 
-    public int score() throws Exception {
-        throw new Exception("not implemented");
+public class Game {
+    public int score(List<Frame> frameList){
+        int score = 0;
+        for (Frame frame : frameList) {
+            score += frame.getScore();
+            boolean isSpare = frame.fetchSpare();
+        }
+
+        return score;
     }
 }
